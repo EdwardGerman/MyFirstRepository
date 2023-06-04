@@ -1,5 +1,5 @@
 # MyFirstRepository
-It's really my first repository
+It's really my first branch
 
 -------
 
